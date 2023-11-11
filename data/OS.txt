@@ -1,0 +1,21 @@
+Course Syllabus
+I am enrolled in Operating Systems
+Instructor:
+
+Name:		Mrs. Fatimah Al-Hassan .
+Office:		CCSIT, Building 605– CS Department- Office 205
+Email:		fatimahm164@gmail.com	
+Office hours: TBA
+                        
+Course Information:
+
+Name:			Operating Systems
+Course ID:		670252
+Catalog number:	CS 322
+Cr. hours:		3 (Theory 2 Cr., Lab 1 Cr.)  -    This is a core (required) course.
+Contact hours:             Theory 2 hours and Lab 2 hours.
+                                    
+Course Prerequisites: 	1. CS 314: Digital Hardware- Course ID: 670249
+
+Classroom Location and Time: 
+
